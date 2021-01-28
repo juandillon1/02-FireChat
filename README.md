@@ -1,7 +1,7 @@
-# Héroes APP
+# FireChat APP
 
 Proyecto en Angular version 9.0.7.
-App que permite establecer un chat con otras personas, autenticandose con Google o GitHub.
+App que permite establecer un chat con otras personas utilizando firebase, autenticandose con Google o GitHub.
 
 ## Development server
 
